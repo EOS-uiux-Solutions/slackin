@@ -1,5 +1,17 @@
 ![](https://github.com/zeit/art/blob/e081cf46e6609b51ac485dcc337ac6644c0da5e7/slackin/repo-banner.png)
 
+
+## Configure it
+
+Add the following ENV vars to your server:
+
+```
+"SLACK_API_TOKEN",
+"SLACK_SUBDOMAIN",
+"GOOGLE_CAPTCHA_SECRET",
+"GOOGLE_CAPTCHA_SITEKEY"
+```
+
 ## Features
 
 - A landing page you can point users to fill in their emails and receive an invite (`https://slack.yourdomain.com`)
