@@ -65,3 +65,14 @@ All the metadata for your organization can be fetched via a JSON HTTP request to
 4. Transpile the source code and watch for changes: `npm start`
 
 Yey! Now can use the `slack` command everywhere.
+
+## Learn more about the EOS UX/UI Solutions
+
+- [EOS Icons](https://eos-icons.com)
+
+- [EOS User Story](https://userstory.site)
+
+- [Follow us on Twitter](https://twitter.com/eos_uxui)
+
+- [Join us on Slack](https://slack.userstory.site)
+
